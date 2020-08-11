@@ -1,4 +1,16 @@
 {
+    "users":[
+      {
+          "id": 1,
+          "firstname": "Asad",
+          "lastname": "Ali",
+          "email": "Asad@gmail.com",
+          "phone": "030033432123",
+          "promo": "",
+          "password": "123123",
+          "aggrement": true
+      }
+    ],
     "posts": [
         { "id": 1, "title": "json-server", "author": "typicode" },
         { "id": 2, "title": "json-server", "author": "typicode" },
